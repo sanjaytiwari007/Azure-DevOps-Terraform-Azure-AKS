@@ -1,8 +1,8 @@
 --------------------------------------------
 # Terraform State Storage Azure RM
 Resource Group: terraform-storage-rg
-Storage Account: terraformstatexlrwdrzs
-Container: tfstatefiles
+Storage Account: nehastoragebackend
+Container: tfstatfile
 
 # Manifests Folder
 terraform-manifests
